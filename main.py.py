@@ -90,7 +90,7 @@ while not game_over:
     all_sprites.draw(window)
 
     # Actualizar la pantalla
-    pygame.display.flip()
+    pygame.display.flip() 
 
 # Salir del juego
 pygame.quit()
